@@ -1,6 +1,7 @@
 # Machine_Learning_Algorithms
 
 ## Linear Regression - 
+#### https://github.com/JayaVerma/Machine_Learning_Algorithms/blob/main/Linear%20Regression%20Practical%20Example%20.ipynb
 #### Descrption: 
 - Supervised learning algorithm that fits a linear equation based on the training data. 
 - The equation is used for predictions on new data.
@@ -33,10 +34,10 @@
 - Trend evaluation
 - Variable dependencies
 - Variable dependencies estimate
-https://github.com/JayaVerma/Machine_Learning_Algorithms/blob/main/Linear%20Regression%20Practical%20Example%20.ipynb
+
 
 ## Logistic Regression - 
-
+#### https://github.com/JayaVerma/Machine_Learning_Algorithms/blob/main/logistic%20regression%20Notebook.ipynb
 #### Descrption: 
 Classification algorithm that predicts the probability of an event occurring using a logistic function. 
 Logistic regression can transform into its logit form, where the log of the odds is equal to a linear model. 
@@ -73,10 +74,9 @@ Large dataset
 - Text Editing
 - -Advertising
 - Credit card default pridiction
-https://github.com/JayaVerma/Machine_Learning_Algorithms/blob/main/logistic%20regression%20Notebook.ipynb
 
 ## Ridge and Lasso Regression - 
-
+#### https://github.com/JayaVerma/Machine_Learning_Algorithms/blob/main/Multiple%20Linear_Regression_Ridge_Lasso_Hitters.ipynb
 #### Descrption: 
 - Regression algorithm that applies regularization to deal with overfitted data.
 The method uses L2 regularization.
@@ -119,9 +119,10 @@ Large dataset
 - Time series prediction
 - Applied test testing
 
-https://github.com/JayaVerma/Machine_Learning_Algorithms/blob/main/Multiple%20Linear_Regression_Ridge_Lasso_Hitters.ipynb
+
 
 ## K-Mean Clustering - 
+#### https://github.com/JayaVerma/Machine_Learning_Algorithms/blob/main/Market%20Segmentation%20with%20Cluster%20Analysis%20.ipynb
 #### Descrption: 
 #### Used For:
 #### inputs:
@@ -136,4 +137,4 @@ Large dataset
 #### Pros:
 #### cons:
 #### Applications:
-https://github.com/JayaVerma/Machine_Learning_Algorithms/blob/main/Market%20Segmentation%20with%20Cluster%20Analysis%20.ipynb
+
